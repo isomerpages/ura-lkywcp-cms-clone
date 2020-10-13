@@ -9,11 +9,7 @@ logo: /images/LKYWCP-logo.png
 links:
   - title: About
     collection: about
-  - title: Nomination
-    collection: nomination
   - title: Laureates
     collection: laureates
-  - title: Resources
-    resource_room: true
   - title: Contact Us
     url: /contact-us/
